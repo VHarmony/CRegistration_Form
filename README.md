@@ -1,9 +1,9 @@
 # Conference Registration Form
 
 ## Table of Content
-[Descriptiion](#Description})
-[How to Use](#How_to_Use)
-[Download](#Download)
+-  [Description](#Description})
+- [How to Use](#How_to_Use)
+- [Download](#Download)
 
 ## Description
 A Conference Registration Form built purely with HTML. Enables easy collection of information and can easily integrated with any web platofrm.
