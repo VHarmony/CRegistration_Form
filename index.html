@@ -12,23 +12,23 @@
             <legend>Personal Information</legend>
             <div>
                 <label for="name">Full Name:</label>
-                <input type="text" name="name" id="fullName" placeholder="Enter your name here">
+                <input type="text" name="name" id="fullName" placeholder="Enter your name here" required>
             </div>
             <div>
                 <label for="email">Email:</label>
-                <input type="email" name="email" id="email" placeholder="johndoe@gmail.com">
+                <input type="email" name="email" id="email" placeholder="johndoe@gmail.com" required>
             </div>
             <div>
                 <label for="number">Phone Number:</label>
-                <input type="number" name="number" id="phoneNumber" placeholder="+123 4567 8900">
+                <input type="number" name="number" id="phoneNumber" placeholder="+123 4567 8900" required>
             </div>
             <div>
                 <label for="name">Company Name:</label>
-                <input type="name" name="name" id="companyName" placeholder="Enter Company Name here">
+                <input type="name" name="name" id="companyName" placeholder="Enter Company Name here" required>
             </div>
             <div>
                 <label for="text">Job Title:</label>
-                <input type="text" name="text" id="jobTitle" placeholder="What do you do?">
+                <input type="text" name="text" id="jobTitle" placeholder="What do you do?" required>
             </div>
         </fieldset><br>
 
@@ -961,7 +961,12 @@
                     </div>
                 </fieldset>
             </fieldset>
-        </fieldset>  
+        </fieldset>
+
+        <div>
+            <button type="reset">Reset</button>
+            <button type="submit">Submit</button>
+        </div>
     </form>
 </body>
 </html>
