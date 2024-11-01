@@ -6,7 +6,7 @@
 - [Download](#Download)
 
 ## Description
-A Conference Registration Form built purely with HTML. Enables easy collection of information and can easily integrated with any web platofrm.
+A Conference Registration Form built purely with HTML. Enables easy collection of information and can be easily integrated with any web platofrm.
 
 ## How to Use
 - To clone and run this project locally, you need Git and any code editor installed on your computer.
